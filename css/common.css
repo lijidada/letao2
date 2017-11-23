@@ -24,8 +24,13 @@ li{
 
 }
 
-.mtb{
-  margin: 20px 0;
+.mb{
+  margin-bottom: 20px;
+}
+
+.table.table-bordered td{
+  vertical-align: middle;
+  text-align:center;
 }
 
 
